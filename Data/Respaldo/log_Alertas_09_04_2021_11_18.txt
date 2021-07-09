@@ -1,0 +1,4 @@
+﻿10:31---------------------------------------Comienza el Proceso-------------------------------------
+10:31[INFO]-------Se obtuvieron las credenciales correctamente-----------
+10:32[INFO]-------Obtengo la Matriz de Confuence correctamente.-----------
+10:32[INFO]-------Se loguea a JIRA correctamente.-----------

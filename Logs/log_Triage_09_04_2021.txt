@@ -1,0 +1,7 @@
+﻿16:32---------------------------------------Comienza el Proceso-------------------------------------
+16:32[INFO]-------Se obtuvieron las credenciales correctamente-----------
+16:33[INFO]-------Obtengo la Matriz de Confuence correctamente.-----------
+16:33[INFO]-------Se loguea a JIRA correctamente.-----------
+16:33[INFO]-------Se encontraron 1 tickets para procesar en JIRA.-----------
+16:33[INFO]-------Para el numero de clave: UYSI-592, se encontro el proyecto: UY-ATOS-NETWORKING (UYNWCS) y el incidente: bull-Servicio.-----------
+16:34-----------------------------------------Finaliza el proceso----------------------------------
